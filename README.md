@@ -6,6 +6,6 @@
 - 🌱 I have 3D animation experience using Blender, but now I'm focusing on programming and Adobe Creative Cloud.
 - 📫 You can reach me using:
 
-Email - ali.space.a350@gmail.com\n
-Instagram - ali.space.a350\n
+Email - ali.space.a350@gmail.com\
+Instagram - ali.space.a350\
 Discord - MmBaguette#3743
