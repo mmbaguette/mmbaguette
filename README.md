@@ -7,5 +7,4 @@
 - 📫 You can reach me using:
 
 Email - ali.space.a350@gmail.com\
-Instagram - ali.space.a350\
 Discord - MmBaguette#3743
