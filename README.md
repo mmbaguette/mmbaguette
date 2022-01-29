@@ -1,3 +1,10 @@
+- I code in Python 🐍, then I break programs. ☠️
+- I'm fairly familiar with networking and security concepts. 💻 
+- Learning C
+
+
+Old:
+
 - 👋 Hi, I’m @mmbaguette
 - 👀 I’m into in computer programming, mobile app development with Flutter, OpenCV computer vision and animation.
 - 👓 As you can tell from [my GitHub repositories](https://github.com/mmbaguette?tab=repositories "My Projects"), I spend most of my time working on OpenCV-related computer vision programs.
