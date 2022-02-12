@@ -1,9 +1,9 @@
-- I code in Python 🐍, then I break programs. ☠️
+- I code in Python 🐍, then I break programs and APIs. ☠️
 - I'm fairly familiar with networking and security concepts. 💻 
 - Learning C and Go to make computer software! 
 - I'm learning to reverse engineer programs, and learning Assembly language, in order to make them do things they're not supposed to do!
 
-Old:
+**Old:**
 
 - 👋 Hi, I’m @mmbaguette
 - 👀 I’m into in computer programming, mobile app development with Flutter, OpenCV computer vision and animation.
