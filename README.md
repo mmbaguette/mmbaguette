@@ -1,6 +1,6 @@
 - I code in Python 🐍, then I break programs and APIs. ☠️
 - I'm fairly familiar with networking and security concepts. 💻 
-- Learning C and Go to make computer software! 
+- Learning C to understand low-level software concepts! 
 - I'm learning to reverse engineer programs, and learning Assembly language, in order to make them do things they're not supposed to do!
 
 **Old:**
