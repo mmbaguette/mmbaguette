@@ -1,7 +1,7 @@
-- I code in Python 🐍, then I break programs and APIs. ☠️
-- I'm fairly familiar with networking and security concepts. 💻 
+- I code in Python for automation, and Java at school. 💻 
+- I'm learning Wi-Fi hacking, and testing the security of IoT.
+- I'm familiar with networking protocols and essential cybersecurity. 
 - Learning C to understand low-level software concepts! 
-- I'm learning to reverse engineer programs, and learning Assembly language, in order to make them do things they're not supposed to do!
 
 **Old:**
 
