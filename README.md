@@ -25,7 +25,11 @@ class Main {
 }
 ```
 ```lua
-print("Lua")
+function main() 
+  print("Lua")
+end
+
+main()
 ```
 
 Currently looking for remote work, interships, etc.
