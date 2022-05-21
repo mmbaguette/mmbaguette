@@ -24,7 +24,7 @@
 ![thumbnail](https://tr.rbxcdn.com/08183b6a2d4fa4b84497d26fac356e65/768/432/Image/Png)
 
 ### [LIVE Plane Spotting](https://www.roblox.com/games/4859404988/LIVE-Plane-Spotting-at-Toronto-Pearson-Airport) at Toronto Peason Airport
-![thumbnail]([https://tr.rbxcdn.com/08183b6a2d4fa4b84497d26fac356e65/768/432/Image/Png](https://tr.rbxcdn.com/8c5e87dd6f720a32c9824d1c99340636/768/432/Image/Png)
+![thumbnail](https://tr.rbxcdn.com/8c5e87dd6f720a32c9824d1c99340636/768/432/Image/Png)
 
 
 
