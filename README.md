@@ -56,15 +56,6 @@ class Main {
 }
 ```
 
-### Lua
-```lua
-function main() 
-  print("Lua")
-end
-
-main()
-```
-
 Currently looking for remote work, interships, etc.
 
 ### Contacts
