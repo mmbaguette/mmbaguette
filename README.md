@@ -33,6 +33,10 @@ end
 main()
 ```
 
+### Cool Projects
+
+[![fruit ninja](https://user-images.githubusercontent.com/76597978/146680831-99c0f914-2de2-42e8-bf02-091144159612.gif)](https://github.com/mmbaguette/Fruit-Ninja-VR)
+
 Currently looking for remote work, interships, etc.
 
 ### Contacts:
