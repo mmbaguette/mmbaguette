@@ -48,7 +48,7 @@ main()
 ### Custom [Bingo Generator](https://github.com/mmbaguette/Bingo-Generator)
 ![bingo card](https://github.com/mmbaguette/Bingo-Generator/raw/main/cards%20and%20templates/Table%202.jpg?raw=true)
 
-### [LEGO Art Creator](https://github.com/mmbaguette/LEGO-Art-Creator) using pieces available from lego.com
+### [LEGO Art Creator](https://github.com/mmbaguette/LEGO-Art-Creator)
 ![swan lego](https://user-images.githubusercontent.com/76597978/169670471-9da95c98-3b06-48d5-9d70-6bd7377cb067.png)
 
 ### Reverse-engineering APIs on [Discord](https://github.com/mmbaguette/Discord-Fun) and [Mentimeter](https://github.com/mmbaguette/Mentimeter-Fun)
