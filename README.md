@@ -28,7 +28,7 @@ class Main {
 print("Lua")
 ```
 
-Currently looking for work.
+Currently looking for remote work, interships, etc.
 
 ### Contacts:
 Only if you found me someplace else.
