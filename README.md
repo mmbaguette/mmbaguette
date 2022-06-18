@@ -24,10 +24,10 @@
 
 ## Roblox
 
-### [RoDocker]([https://www.roblox.com/games/7065586068/Roblox-Image-from-Link](https://devforum.roblox.com/t/rodocker-generate-custom-roblox-books-from-google-docs-in-just-one-click/1182352) - Google Docs to Roblox Graphics 
-![thumbnail](https://tr.rbxcdn.com/08183b6a2d4fa4b84497d26fac356e65/768/432/Image/Png)
+### [RoDocker](https://devforum.roblox.com/t/rodocker-generate-custom-roblox-books-from-google-docs-in-just-one-click/1182352) - Google Docs to Roblox Graphics 
+![thumbnail](https://camo.githubusercontent.com/61f13fa7d345e7dd1a3f4660842a7c1f2a1e634e14263334ea5bfb3ac0ae56cd/68747470733a2f2f646f79326d6e39757061646e6b2e636c6f756466726f6e742e6e65742f75706c6f6164732f64656661756c742f6f7074696d697a65642f34582f382f652f342f386534636333353836626335636230313636653066396261613937326533663364623131333938625f325f363930783338362e706e67)
 
-### [LIVE Plane Spotting](https://www.roblox.com/games/4859404988/LIVE-Plane-Spotting-at-Toronto-Pearson-Airport) at Toronto Peason Airport
+### LIVE [Plane Spotting](https://www.roblox.com/games/4859404988/LIVE-Plane-Spotting-at-Toronto-Pearson-Airport) at Toronto Peason Airport
 ![thumbnail](https://tr.rbxcdn.com/8c5e87dd6f720a32c9824d1c99340636/768/432/Image/Png)
 
 ## Programming Languages
