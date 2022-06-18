@@ -52,7 +52,7 @@ class Main {
     System.out.println("Java");
   }
 }
-
+```
 
 ### Lua
 ```lua
