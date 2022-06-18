@@ -8,6 +8,10 @@
 
 ![fruit ninja gif](https://user-images.githubusercontent.com/76597978/146680831-99c0f914-2de2-42e8-bf02-091144159612.gif)
 
+### [Arduino](https://github.com/mmbaguette/Arduino-Smart-Home-Welcomer/) Smart Home Welcomer
+
+![image](https://user-images.githubusercontent.com/76597978/174444223-ce1790ad-2990-4e25-bdf9-99b5e912cdc1.png)
+
 ### Custom [Bingo Generator](https://github.com/mmbaguette/Bingo-Generator)
 ![bingo card](https://github.com/mmbaguette/Bingo-Generator/raw/main/cards%20and%20templates/Table%202.jpg?raw=true)
 
