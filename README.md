@@ -18,10 +18,6 @@
 ### [LEGO Art Creator](https://github.com/mmbaguette/LEGO-Art-Creator)
 ![swan](https://user-images.githubusercontent.com/76597978/169671149-3d8ea3a5-2275-4c11-86aa-ebc6137371da.png)
 
-### Reverse-engineering APIs on [Discord](https://github.com/mmbaguette/Discord-Fun) and [Mentimeter](https://github.com/mmbaguette/Mentimeter-Fun)
-
-![animated message](https://camo.githubusercontent.com/07d531afc1685efa3854f7d7949603208408b310de1cb6f69ff03241382b28ed/68747470733a2f2f692e6779617a6f2e636f6d2f63386162386363613936633339306536613465333165363564376163623834322e676966)
-
 ## Roblox
 
 ### [RoDocker](https://devforum.roblox.com/t/rodocker-generate-custom-roblox-books-from-google-docs-in-just-one-click/1182352) - Google Docs to Roblox Graphics 
