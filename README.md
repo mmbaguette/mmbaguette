@@ -8,7 +8,7 @@
 
 ![fruit ninja gif](https://user-images.githubusercontent.com/76597978/146680831-99c0f914-2de2-42e8-bf02-091144159612.gif)
 
-### [Arduino](https://github.com/mmbaguette/Arduino-Smart-Home-Welcomer/) Smart Home Welcomer
+### [Arduino](https://github.com/mmbaguette/Arduino-Smart-Home-Welcomer/) Smart Home Welcomer using WiFi
 
 ![image](https://user-images.githubusercontent.com/76597978/174444223-ce1790ad-2990-4e25-bdf9-99b5e912cdc1.png)
 
