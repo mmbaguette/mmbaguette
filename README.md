@@ -1,6 +1,6 @@
 # MmBaguette
 
-## Computer Vision, Arduino, Wi-Fi and Roblox Scripting
+## Computer Vision, Arduino, Wi-Fi & Networks and Roblox Scripting
 
 ## Cool Projects
 
