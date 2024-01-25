@@ -2,11 +2,11 @@
 
 ## Computer Vision, Arduino, Computer Networks, and Game Design
 
-### [Fruit Ninja in 3D](https://github.com/mmbaguette/Fruit-Ninja-3D) using Webcam
+### [Fruit Ninja in 3D using a web camera](https://github.com/mmbaguette/Fruit-Ninja-3D)
 
 ![fruit ninja gif](https://user-images.githubusercontent.com/76597978/146680831-99c0f914-2de2-42e8-bf02-091144159612.gif)
 
-### [Arduino Smart Home](https://github.com/mmbaguette/Arduino-Smart-Home-Welcomer/) Welcomer using WiFi
+### [Arduino Smart Home Welcomer using Wi-Fi](https://github.com/mmbaguette/Arduino-Smart-Home-Welcomer/) 
 
 ![image](https://user-images.githubusercontent.com/76597978/174444223-ce1790ad-2990-4e25-bdf9-99b5e912cdc1.png)
 
@@ -15,11 +15,11 @@
 
 ## Roblox
 
-### Game Character [Live Pose Tracking](https://github.com/mmbaguette/Roblox-VR-with-Webcam)
+### [Real-time Character Pose Tracker](https://github.com/mmbaguette/Roblox-VR-with-Webcam)
 ![thumbnail](https://user-images.githubusercontent.com/76597978/177058172-8a5cecb1-5693-42e7-9cfb-2e9d0b853cd0.gif)
 
 
-### Live [Plane Spotting](https://www.roblox.com/games/4859404988/LIVE-Plane-Spotting-at-Toronto-Pearson-Airport) at Toronto Peason Airport
+### [Live Plane Spotting using online flight data APIs](https://www.roblox.com/games/4859404988/LIVE-Plane-Spotting-at-Toronto-Pearson-Airport) at Toronto Peason Airport
 ![thumbnail](https://github.com/mmbaguette/mmbaguette/assets/76597978/635815bb-0308-4ffb-aa28-bc64f8e08c1b)
 
 
@@ -34,12 +34,19 @@ if __name__ == "__main__":
   main()
 ```
 
-### C
+### C/C++
 ```C
 int main() {
-  puts("C");
+  puts("C and C++");
   return 0;
 }
+```
+
+### Lua
+```lua
+local function main()
+  print("Lua")
+end
 ```
 
 ### Java
@@ -51,11 +58,5 @@ class Main {
 }
 ```
 
-### Lua
-```lua
-local function main()
-  print("Lua")
-end
-```
 
 Currently looking for remote work, interships, etc.
