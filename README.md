@@ -19,7 +19,7 @@
 ![thumbnail](https://user-images.githubusercontent.com/76597978/177058172-8a5cecb1-5693-42e7-9cfb-2e9d0b853cd0.gif)
 
 
-### [Live Plane Spotting using online flight data APIs](https://www.roblox.com/games/4859404988/LIVE-Plane-Spotting-at-Toronto-Pearson-Airport) at Toronto Peason Airport
+### [Live Plane Spotting using online flight data APIs at Toronto Peason Airport](https://www.roblox.com/games/4859404988/LIVE-Plane-Spotting-at-Toronto-Pearson-Airport) 
 ![thumbnail](https://github.com/mmbaguette/mmbaguette/assets/76597978/635815bb-0308-4ffb-aa28-bc64f8e08c1b)
 
 
