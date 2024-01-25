@@ -2,7 +2,7 @@
 
 ## Computer Vision, Arduino, Computer Networks, and Game Design
 
-### [Fruit Ninja VR](https://github.com/mmbaguette/Fruit-Ninja-VR) using Webcam
+### [Fruit Ninja in 3D](https://github.com/mmbaguette/Fruit-Ninja-3D) using Webcam
 
 ![fruit ninja gif](https://user-images.githubusercontent.com/76597978/146680831-99c0f914-2de2-42e8-bf02-091144159612.gif)
 
