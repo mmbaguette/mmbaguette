@@ -59,4 +59,4 @@ class Main {
 ```
 
 
-Currently looking for remote work, interships, etc.
+Currently looking for remote work or interships. 
