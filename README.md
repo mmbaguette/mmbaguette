@@ -55,7 +55,7 @@ end
 
 ### Swift
 
-```
+```swift
 @main
 struct MyApp {
     func main() {
