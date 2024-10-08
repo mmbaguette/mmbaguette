@@ -38,6 +38,17 @@ if __name__ == "__main__":
   main()
 ```
 
+### Swift
+
+```swift
+@main
+struct MyApp {
+    func main() {
+      print("Swift")
+    }
+}
+```
+
 ### C/C++
 ```C
 int main() {
@@ -51,17 +62,6 @@ int main() {
 local function main()
   print("Lua")
 end
-```
-
-### Swift
-
-```swift
-@main
-struct MyApp {
-    func main() {
-      print("Swift")
-    }
-}
 ```
 
 ### Flutter & Dart
@@ -81,6 +81,3 @@ class Main {
   }
 }
 ```
-
-
-Currently looking for remote work or interships. 
