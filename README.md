@@ -7,7 +7,7 @@
 
 <img src="https://cdn.dorahacks.io/static/files/1938d375e8d648ba6fafc154686b79a1.png" width=60% height=60%>
 
-### [Charades iPhone Party Game](https://github.com/mmbaguette/Charades-iOS)
+### [Charades Guessing Game](https://github.com/mmbaguette/Charades-iOS)
 
 <img height="300" alt="Screenshot 2025-01-03 at 10 14 41 PM" src="https://github.com/user-attachments/assets/e4b6b63a-5459-4503-b602-2517a331321c" />
 
