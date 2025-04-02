@@ -1,6 +1,6 @@
 # ali_mm
 
-## Computer Vision, Arduino, Computer Networks, Mobile Apps, and Game Design
+## Pas software project in Computer Vision, Arduino, Computer Networks, Mobile Apps, and Game Design
 
 
 ### [Upright: Fall Injury Detection App](https://dorahacks.io/buidl/20372)
