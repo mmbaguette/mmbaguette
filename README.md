@@ -1,4 +1,4 @@
-# ali_mm
+# ali_mm (mmbaguette)
 
 ## Computer Vision, Arduino, Computer Networks, Mobile Apps, and Game Design
 
