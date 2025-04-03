@@ -1,6 +1,6 @@
 # ali_mm
 
-## Past software project in Computer Vision, Arduino, Computer Networks, Mobile Apps, and Game Design
+## Past Software Projects
 
 ### [HERO: Community Emergency Response App](https://github.com/mmbaguette/HERO/)
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
