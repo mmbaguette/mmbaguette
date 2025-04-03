@@ -2,6 +2,12 @@
 
 ## Past software project in Computer Vision, Arduino, Computer Networks, Mobile Apps, and Game Design
 
+### [HERO: Community Emergency Response App](https://github.com/mmbaguette/HERO/)
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://github.com/mmbaguette/HERO/raw/main/assets/screenshots/give_aid_map.jpg" width="200" alt="Give Aid Map">
+  <img src="https://github.com/mmbaguette/HERO/raw/main/assets/screenshots/report_obstacles.jpeg" width="200" alt="Report Obstructions screens">
+  <img src="https://github.com/mmbaguette/HERO/raw/main/assets/screenshots/assistance_hub.jpg" width="200" alt="Assistance Hub"> 
+</div>
 
 ### [Upright: Fall Injury Detection App](https://dorahacks.io/buidl/20372)
 
