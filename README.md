@@ -1,4 +1,4 @@
-# Ali Mohammed-Ali (mmbaguette)
+# mmbaguette
 
 ## Past Software Projects
 
