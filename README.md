@@ -1,4 +1,4 @@
-# mmbaguette
+# Ali Mohammed-Ali (mmbaguette)
 
 ## Projects
 
