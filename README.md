@@ -14,6 +14,12 @@ Removing real objects from a live camera view, fully offline, on a non-Pro iPhon
 
 Swift, CoreML, Vision, ARKit
 
+### [Smart Home Greeter — Wi-Fi presence detection on two microcontrollers](https://github.com/mmbaguette/Arduino-Smart-Home-Welcomer)
+Detects when a known phone rejoins the home network by reading its MAC address from DHCP broadcasts, then greets the person on an LCD and emails the owner. ESP8266 and Arduino Uno linked over serial, with devices stored in an EEPROM layout and names resolved from mDNS. Built in 2022.
+
+`C++` `ESP8266` `Arduino Uno` `DHCP` `mDNS`
+
+
 ### [HERO](https://github.com/mmbaguette/HERO) — Emergency response app
 
 Community app for coordinating rides, first aid, and hazard reports during floods and forest fires, built by a team of five for Western's engineering design competition. 2nd overall, 1st in the Transportation category.
@@ -29,9 +35,6 @@ React Native, Node.js, WebSockets, Google Maps API, Agentic Coding
 
 ![fruit ninja gif](https://user-images.githubusercontent.com/76597978/146680831-99c0f914-2de2-42e8-bf02-091144159612.gif)
 
-### [Arduino Smart Home Welcomer using Wi-Fi](https://github.com/mmbaguette/Arduino-Smart-Home-Welcomer/) 
-
-![image](https://user-images.githubusercontent.com/76597978/174444223-ce1790ad-2990-4e25-bdf9-99b5e912cdc1.png)
 
 ### [Mini Real Runway](https://github.com/mmbaguette/Mini-Real-Runway)
 
