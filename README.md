@@ -2,7 +2,7 @@
 
 ## Projects
 
-### ![POET-STRATOS](https://github.com/mmbaguette/POET-STRATOS-public/) — Camera control and space-to-ground data link
+### [POET-STRATOS](https://github.com/mmbaguette/POET-STRATOS-public/) — Camera control and space-to-ground data link
 
 Flight software for an infrared astronomy payload flown to ~33 km on a Canadian Space Agency / CNES stratospheric balloon, August 2025. C++ control of a 12-bit SWIR camera over serial and camera link, a Python telecommand system, and a bandwidth-constrained downlink with compression and packet retransmission.
 
