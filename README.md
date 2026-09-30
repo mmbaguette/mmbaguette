@@ -14,7 +14,7 @@ Removing real objects from a live camera view, fully offline, on a non-Pro iPhon
 
 Swift, CoreML, Vision, ARKit
 
-### [Smart Home Greeter — Wi-Fi presence detection on two microcontrollers](https://github.com/mmbaguette/Arduino-Smart-Home-Welcomer)
+### [Smart Home Greeter](https://github.com/mmbaguette/Arduino-Smart-Home-Welcomer) — Wi-Fi presence detection on two microcontrollers
 Detects when a known phone rejoins the home network by reading its MAC address from DHCP broadcasts, then greets the person on an LCD and emails the owner. ESP8266 and Arduino Uno linked over serial, with devices stored in an EEPROM layout and names resolved from mDNS. Built in 2022.
 
 `C++` `ESP8266` `Arduino Uno` `DHCP` `mDNS`
