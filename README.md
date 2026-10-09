@@ -27,6 +27,7 @@ Community app for coordinating rides, first aid, and hazard reports during flood
 React Native, Node.js, WebSockets, Google Maps API, Agentic Coding
 
 <details> <summary>Earlier projects</summary>
+    
 ### [Charades Guessing Game](https://github.com/mmbaguette/Charades-iOS)
 
 <img height="300" alt="Screenshot 2025-01-03 at 10 14 41 PM" src="https://github.com/user-attachments/assets/e4b6b63a-5459-4503-b602-2517a331321c" />
