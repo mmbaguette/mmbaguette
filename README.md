@@ -31,8 +31,6 @@ Community app for coordinating rides, first aid, and hazard reports during flood
 A fun, fast-paced PC game that tracks your physical body with a webcam to let you slice fruits .
 `Python` `pygame` `MediaPipe` `Computer Vision`
 
-![fruit ninja gif](https://user-images.githubusercontent.com/76597978/146680831-99c0f914-2de2-42e8-bf02-091144159612.gif)
-
 <details> <summary>Earlier projects</summary>
     
 ### [Charades Guessing Game](https://github.com/mmbaguette/Charades-iOS)
