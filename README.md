@@ -6,13 +6,13 @@
 
 Flight software for an infrared camera telescope flown to ~33 km on a Canadian Space Agency / CNES stratospheric balloon, August 2025. C++ control of a 12-bit SWIR camera over serial and camera link, a Python telecommand system, and a bandwidth-constrained downlink with compression and packet retransmission.
 
-C++, Python, OpenCV, astropy, UDP, Camera Link, Collaboration in Git · CBC News coverage
+`C++`, `Python`, `OpenCV`, `astropy`, `UDP`, `Camera Link`, `Collaboration in Git` · CBC News coverage
 
-### [Diminished reality on iPhone 13](https://github.com/mmbaguette/non-LiDAR-Diminished-Reality-on-iPhone) — in progress
+### [Diminished Reality on iPhone 13](https://github.com/mmbaguette/non-LiDAR-Diminished-Reality-on-iPhone) — in progress
 
 Removing real objects from a live camera view, fully offline, on a non-Pro iPhone with 4 GB of RAM. Segmentation, monocular depth, inpainting and occlusion handling under a sustained thermal and memory budget, restricted to methods that are commercially clean.
 
-Swift, CoreML, Vision, ARKit
+`Swift`, `CoreML`, `Vision`, `ARKit`
 
 ### [Smart Home Greeter](https://github.com/mmbaguette/Arduino-Smart-Home-Welcomer) — Wi-Fi presence detection on two microcontrollers
 Detects when a known phone rejoins the home network by reading its MAC address from DHCP broadcasts, then greets the person on an LCD and emails the owner. ESP8266 and Arduino Uno linked over serial, with devices stored in an EEPROM layout and names resolved from mDNS. Built in 2022.
@@ -24,7 +24,7 @@ Detects when a known phone rejoins the home network by reading its MAC address f
 
 Community app for coordinating rides, first aid, and hazard reports during floods and forest fires, built by a team of five for Western's engineering design competition. 2nd overall, 1st in the Transportation category.
 
-React Native, Node.js, WebSockets, Google Maps API, Agentic Coding
+`React Native`, `Node.js`, `WebSockets`, `Google Maps API`, `Agentic Coding`
 
 <details> <summary>Earlier projects</summary>
     
