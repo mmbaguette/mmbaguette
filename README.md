@@ -28,8 +28,11 @@ Community app for coordinating rides, first aid, and hazard reports during flood
 
 ### [Fruit Ninja in 3D](https://github.com/mmbaguette/Fruit-Ninja-3D) using a web camera (13+ stars)
 
-A fun, fast-paced PC game that tracks your physical body with a webcam to let you slice fruits .
+A fun, fast-paced PC game that tracks your physical body with a webcam to let you slice fruits while avoiding weapons.
+
 `Python` `pygame` `MediaPipe` `Computer Vision`
+
+---
 
 <details> <summary>Earlier projects</summary>
     
