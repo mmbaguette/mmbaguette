@@ -1,6 +1,13 @@
 # Ali Mohammed-Ali (mmbaguette)
 
+Electrical Engineering, Western University
+
+I build hardware and software for space and telecom systems.
+
+**[Portfolio: alimohammed-ali.com](https://alimohammed-ali.com)** · [LinkedIn](https://linkedin.com/in/am-uwo)
+
 ## Projects
+
 
 ### [POET-STRATOS](https://github.com/mmbaguette/POET-STRATOS-public/) — Camera control and space-to-ground data link
 
@@ -45,6 +52,3 @@ A fun, fast-paced PC game that tracks your physical body with a webcam to let yo
 
 ![Four colour printed papers stuck together representing a model of a runway with LED strips on both sides](https://github.com/user-attachments/assets/af18b858-2311-43b1-999f-3e4f68448d66)
 </details>
-
-**Ali Mohammed-Ali** — Electrical Engineering, Western University
-[LinkedIn](https://linkedin.com/in/am-uwo)
