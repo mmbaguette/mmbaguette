@@ -2,7 +2,7 @@
 
 Electrical Engineering, Western University
 
-I build hardware and software for space and telecom systems.
+__I build things that run autonomously, in remote places or on constrained hardware__: a camera payload flown to 33 km on a Canadian & French Space Agencies (CSA/CNES) stratospheric balloon, offline AI computer vision on an iPhone with 4 GB of RAM, a Wi-Fi smart-home device that notices when someone’s phone joins the home network, and a Mars rover’s pan-tilt camera in SolidWorks. I’m most interested in space and telecom systems.
 
 **[Portfolio: alimohammed-ali.com](https://alimohammed-ali.com)** · [LinkedIn](https://linkedin.com/in/am-uwo)
 
